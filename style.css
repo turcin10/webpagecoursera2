@@ -1,0 +1,24 @@
+header{
+background-color: burlywood;
+padding: 1%;
+margin-bottom: 1%;
+border-radius: 0%;
+}
+.squer{
+    background-color: burlywood;
+    padding: 1%;
+    margin: 5%;
+
+}
+.name{
+    text-align: center;
+}
+.navbar{
+    background-color:burlywood!important;
+    text-align: center!important;
+}
+#menu{
+text-align: center;
+
+
+}
